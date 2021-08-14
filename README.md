@@ -21,8 +21,8 @@ https://github.com/antsuishch/Pet_projects_ManualQA - (yandex maps and yandex sc
 ## My GitHub Stats Card :sunglasses:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antsuishch&show_icons=true&theme=tokyonight)
 
-## Top Languages Card:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antsuishch)](https://github.com/antsuishch/)
+## Languages Card: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antsuishch&layout=compact)](https://github.com/antsuishch)
 
 
 
