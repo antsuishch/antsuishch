@@ -5,9 +5,9 @@ I'm a QA Automation Engineer :robot:
 
 And I love automation :sparkling_heart:
 
-My linkedin profile: (https://www.linkedin.com/in/anton-ishchuk)
+My Linkedin profile: (https://www.linkedin.com/in/anton-ishchuk)
 
-My telegram profile: (@Arthur_Dent42)
+My Telegram profile: (@Arthur_Dent42)
 
 ## My examples of projects:
 Automation project example: :man_technologist:
