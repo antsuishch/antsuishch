@@ -25,5 +25,5 @@ https://github.com/antsuishch/Pet_projects_ManualQA - (yandex maps and yandex sc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antsuishch&layout=compact)](https://github.com/antsuishch)
 
 
-
-
+## Contacts
+<a href="https://www.linkedin.com/in/anton-ishchuk" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-ar21.svg" alt="antsuishch" height="30" width="40" /></a>
