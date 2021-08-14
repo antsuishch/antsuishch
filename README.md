@@ -18,6 +18,6 @@ https://github.com/antsuishch/web_site_spb - (tele2.spb)
 
 
 ## My contacts:
-<a href="https://www.linkedin.com/in/anton-ishchuk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="anton-ishchuk" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/anton-ishchuk-0149381b2/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="anton-ishchuk" height="30" width="30" /></a>
 <a href="https://t.me/Arthur_Dent42" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Arthur_Dent42" height="30" width="30" /></a>
 <a href="https://vk.com/arthur_dent42" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="Антон Ищук" height="30" width="30" /></a>
