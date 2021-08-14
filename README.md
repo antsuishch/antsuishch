@@ -18,12 +18,13 @@ Manual project example: :technologist:
 
 https://github.com/antsuishch/Pet_projects_ManualQA - (yandex maps and yandex scooter)
 
-## My GitHub Stats Card :sunglasses:
+## My GitHub Stats Card: :sunglasses:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antsuishch&show_icons=true&theme=tokyonight)
 
 ## Languages Card: :coffee:	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antsuishch&layout=compact)](https://github.com/antsuishch)
 
 
-### My contacts
-<a href="https://www.linkedin.com/in/anton-ishchuk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="anton-ishchuk" height="30" width="40" /></a>
+## My contacts:
+<a href="https://www.linkedin.com/in/anton-ishchuk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="anton-ishchuk" height="60" width="80" /></a>
+<a href="https://t.me/Arthur_Dent42" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Arthur_Dent42" height="60" width="80" /></a>
