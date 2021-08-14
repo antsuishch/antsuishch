@@ -19,7 +19,7 @@ Manual project example: :technologist:
 https://github.com/antsuishch/Pet_projects_ManualQA - (yandex maps and yandex scooter)
 
 ## My GitHub Stats Card :sunglasses:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antsuishch)](https://github.com/antsuishch/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antsuishch)](https://github.com/antsuishch?tab=repositories)
 
 
 
