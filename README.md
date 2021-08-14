@@ -23,6 +23,8 @@ https://github.com/antsuishch/Pet_projects_ManualQA - (yandex maps and yandex sc
 
 ## Languages Card: :coffee:	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antsuishch&layout=compact)](https://github.com/antsuishch)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antsuishch)](https://github.com/antsuishch)
+
 
 
 
