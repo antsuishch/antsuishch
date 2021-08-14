@@ -26,4 +26,4 @@ https://github.com/antsuishch/Pet_projects_ManualQA - (yandex maps and yandex sc
 
 
 ## Contacts
-<a href="https://www.linkedin.com/in/anton-ishchuk" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-ar21.svg" alt="antsuishch" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anton-ishchuk" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="anton-ishchuk" height="30" width="40" /></a>
