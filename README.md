@@ -3,7 +3,7 @@
 
 I'm a QA Automation Engineer :robot:
 
-And I love automation :sparkling_heart:
+And I like automation :sparkling_heart:
 
 ## My examples of projects:
 Automation project example: :man_technologist:
